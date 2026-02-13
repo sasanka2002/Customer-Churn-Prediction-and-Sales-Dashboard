@@ -45,9 +45,3 @@ Scikit-learn
 ## Run the Streamlit App
 ---
 streamlit run app.py
-
-Matplotlib
-
-Seaborn
-
-Streamlit
